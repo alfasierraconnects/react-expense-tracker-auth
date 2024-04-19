@@ -1,2 +1,2 @@
-# react-expense-tracker-auth
+# the-generics-react
 React Code Repo of my Learning
